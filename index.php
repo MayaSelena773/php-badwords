@@ -18,7 +18,7 @@
     Un Anello per domarli, Un Anello per trovarli,<br>
     Un Anello per ghermirli e nel buio incatenarli,<br>
     Nella Terra di Mordor, dove l'Ombra cupa scende.'<br>
-    J.R.R. Tolkien" 
+    J.R.R. Tolkien"; 
     //La parola da censurare viene passata tramite parametro GET.
     $badword = $_GET['badword'];
     ?>
